@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TryCreate</string>
+    <string name="text">Thanks for choosing our awesome blend tea. How do you want it serving?</string>
+    <string name="temperature">Temperature:</string>
+    <string name="button">HOT</string>
+    <string name="sugar">sugar</string>
+    <string name="milk">milk</string>
+    <string name="lemon">lemon</string>
+</resources>
